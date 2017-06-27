@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Controller" Collapsed="true">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgABAAAAQAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level" Collapsed="true">
+    <Position X="22" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAIAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Level.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FallingObject" Collapsed="true">
+    <Position X="14.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABAAAAAAAAACAAAIAAAAAAAQEAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>FallingObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpandPad" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExpandPad.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShortenPad" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAACAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>ShortenPad.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SlowBall" Collapsed="true">
+    <Position X="13.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>SlowBall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwoBalls" Collapsed="true">
+    <Position X="15.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAABAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>TwoBalls.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RapidBall" Collapsed="true">
+    <Position X="17.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAACAAAAA=</HashCode>
+      <FileName>RapidBall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ball" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAEAAAAIAACEAAIAAAAAAAAEAAAAAEAAAAAAAIA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brick" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAIAAgAAAAIBABAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Brick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paddle" Collapsed="true">
+    <Position X="8" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAEAAAIAAACAAAIAAAAAAgAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Paddle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bound" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAAAAAAAIAAAAAAAIAAAAAAAAAAAAAAAACAAAAAgA=</HashCode>
+      <FileName>Bound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board" Collapsed="true">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABIAAAIAAAAAgIAAAQKRAAAAACAEBAA=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfoBar" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBIAAAAAAAAAAgIAAAIAQAAAAAAgAAAQAgAQAAAAAAA=</HashCode>
+      <FileName>InfoBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animation" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQBAAAAAAAghAQAAIAEgAAgCAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Animation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AngCalc" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAQAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>AngCalc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Direction&lt;T&gt;" Collapsed="true">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAgAAAAAAAAAACAQAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Direction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expandable" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABEAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expandable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawable" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAIABAAgAAAAAAAAgAACAAAAAAA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Movable&lt;T&gt;" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAgQAAAAAACAAAAAAAAAAAAQAoABAAAAAAAAAAA=</HashCode>
+      <FileName>Movable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Collision" Collapsed="true">
+    <Position X="20.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAQAAQAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collision.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Fallings" Collapsed="true">
+    <Position X="20.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAABACACAAA=</HashCode>
+      <FileName>FallingObject.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LR" Collapsed="true">
+    <Position X="20.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAA=</HashCode>
+      <FileName>Direction.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="UD" Collapsed="true">
+    <Position X="22" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Direction.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HV" Collapsed="true">
+    <Position X="22" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Direction.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
